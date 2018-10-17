@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "9453291F-F0E8-45D0-BE2A-B267ADFC00FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "00368FC6-70E0-424A-867A-4D24CFEEE277",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1A76B105-5CC0-4D36-9C9F-FA93449CAD13",
+    "height": 78,
+    "width": 351,
+    "x": 12,
+    "y": 315
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / text input",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E2DB2103-C230-45F7-99FD-D2EA3F32872C",
+      "overrideName": "29EFB5EF-6CD7-4DF5-B73E-460D47387CB9_stringValue",
+      "value": "########"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E6D4FBCA-0A96-4B70-95E4-5F4DE198EBC7",
+      "overrideName": "908AFFE8-0C5C-414E-B68F-FF87CA75BA18_stringValue",
+      "value": "Enter your phone number"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4C1FC814-A484-4D17-A0DE-DCA8C867DCEA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E3B80E44-6E05-479C-947C-5DF6151163F1",
+  "verticalSpacing": 0
+}

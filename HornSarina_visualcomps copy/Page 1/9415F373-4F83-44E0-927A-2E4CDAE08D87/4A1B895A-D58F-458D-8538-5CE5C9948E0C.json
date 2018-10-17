@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "4A1B895A-D58F-458D-8538-5CE5C9948E0C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 297,
+    "x": 39,
+    "y": 543
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1EC3B384-640A-4ED2-9EDD-F440A39AA68B",
+      "overrideName": "2B0EF8B2-7ED3-4E4C-948B-5033CAFBF41C/55EBA1A0-0802-40CB-AF01-B8E2C533636D/4C694294-7DDC-4640-A6FA-EC3699EBD3CF_stringValue",
+      "value": "Sign up"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8577E91B-43E9-417E-9C19-98B551955BB9",
+  "verticalSpacing": 0
+}

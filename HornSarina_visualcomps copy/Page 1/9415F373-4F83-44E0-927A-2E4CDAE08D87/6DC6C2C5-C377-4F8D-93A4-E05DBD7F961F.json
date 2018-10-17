@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "6DC6C2C5-C377-4F8D-93A4-E05DBD7F961F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C2607B2D-C284-47C6-8842-4DED9EF911CD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "482A4EA6-0D74-479B-91FE-74C48B0D22B2",
+    "height": 78,
+    "width": 354,
+    "x": 11,
+    "y": 306
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / text input copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F596B322-68D3-422D-89E1-0C6E025EF087",
+      "overrideName": "908AFFE8-0C5C-414E-B68F-FF87CA75BA18_stringValue",
+      "value": "Email"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B15A5ED3-176B-4BC5-B17D-D1F8F4D04FBF",
+      "overrideName": "29EFB5EF-6CD7-4DF5-B73E-460D47387CB9_stringValue",
+      "value": "sarinahorn@gmail.com"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2BA4E23A-AF8F-45F6-A397-9E121FDB06CB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E3B80E44-6E05-479C-947C-5DF6151163F1",
+  "verticalSpacing": 0
+}

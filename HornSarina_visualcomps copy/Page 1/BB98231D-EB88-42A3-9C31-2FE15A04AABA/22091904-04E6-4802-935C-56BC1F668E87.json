@@ -1,0 +1,58 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "22091904-04E6-4802-935C-56BC1F668E87",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51465B93-AA0F-4BEE-BB6C-084D56A1B281",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BE6C8D47-8161-42E4-B076-0EA3F705564C",
+    "height": 1789,
+    "width": 1192,
+    "x": -233,
+    "y": -949
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/8d5853145f0b296a609b161db795f431d20cc3ee.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "abstract-attractive-backdrop-988872",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "820AA90B-AB06-4DC7-85EE-2186A764B9A4",
+      "opacity": 0.700435
+    },
+    "do_objectID": "832290CE-485A-4210-9294-ACBF617509B4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

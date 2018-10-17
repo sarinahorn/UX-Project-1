@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "1829F33B-CB42-4368-B250-CF8FAA8C456F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6F8E8AA1-8F4E-4A3D-8E42-A4A70A800505",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "469920DB-2EAA-4E95-862B-248464BA0714",
+    "height": 78,
+    "width": 354,
+    "x": 11,
+    "y": 314
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / text input copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BAE1ABC3-DC73-403D-B1D2-08112FB9E85A",
+      "overrideName": "908AFFE8-0C5C-414E-B68F-FF87CA75BA18_stringValue",
+      "value": "Type it again"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F4DE9DEC-25C2-4E39-ABDB-D333509BB74B",
+      "overrideName": "29EFB5EF-6CD7-4DF5-B73E-460D47387CB9_stringValue",
+      "value": "**************"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4F4DC194-1F8F-4316-AA83-B601E9D46CC1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E3B80E44-6E05-479C-947C-5DF6151163F1",
+  "verticalSpacing": 0
+}

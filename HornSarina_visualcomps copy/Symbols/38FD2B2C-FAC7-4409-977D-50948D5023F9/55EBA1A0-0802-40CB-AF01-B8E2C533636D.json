@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "55EBA1A0-0802-40CB-AF01-B8E2C533636D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C7FCEC0-D3BA-4323-8A16-154C6D8C62B4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "77866578-8268-42CF-AB14-53DE27E6F873",
+    "height": 32,
+    "width": 297,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "386E277D-C103-42EB-AFF6-C3C38E9D683E",
+      "overrideName": "4C694294-7DDC-4640-A6FA-EC3699EBD3CF_stringValue",
+      "value": "Search"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "36DB9B4C-EAD5-425D-B74D-AEFFF0D03736",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3089844A-7C93-4C92-A171-AAA33F0D84EF",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

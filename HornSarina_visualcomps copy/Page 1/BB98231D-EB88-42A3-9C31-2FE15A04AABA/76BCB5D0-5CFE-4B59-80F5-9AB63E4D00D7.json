@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "76BCB5D0-5CFE-4B59-80F5-9AB63E4D00D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F2C94910-C026-49A1-BFD9-C3878253DFF5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "51821BA8-48FB-4B17-909F-E928C419039E",
+    "height": 51,
+    "width": 112,
+    "x": 202,
+    "y": 228
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / tab phone",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8A3B7F0-660F-42DA-9DFE-674EAF22F867",
+      "overrideName": "2A8C3609-76FF-4ACC-A1A8-51E8F26E0F07_stringValue",
+      "value": "Email"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4D2CCB7F-AC11-402B-97EE-29632A0868F6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "316478B8-9A47-4FB5-ADE0-582E287FA8C3",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "B937FCDE-E15D-49EA-B2B4-8634903A6044",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

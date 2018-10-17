@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "255367AA-87AF-41F9-A703-10EDAF43D647",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "34BDD5AE-E581-4B62-8EC3-F30B58BEC414",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C6D3362A-E12D-4DE4-A61A-7D86238EC727",
+    "height": 50,
+    "width": 116,
+    "x": 68,
+    "y": 228
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / tab email",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "55B5A3D5-FB0E-4260-A40B-2A647B700FD1",
+      "overrideName": "7FA9673E-B2F7-4CF3-B722-5C753B626574_stringValue",
+      "value": "Phone"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6F2DFA40-7ABA-4417-B973-2F228B2A16FA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1D66322B-0CF8-47EC-94BA-10A26040277F",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "37E6D9E2-E27C-4FD7-A2B6-04908895A304",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47CD9A58-E609-459D-BE3D-EB246269452E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "79EA93F7-0D11-4411-A4D1-D4B3DF230938",
+    "height": 32,
+    "width": 297,
+    "x": 39,
+    "y": 486
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / Facebook",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C7A05CDA-272E-4D26-AEAF-08D224DFBF19",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0B6646DF-7741-4C62-9B30-567A517C16BC",
+  "verticalSpacing": 0
+}
